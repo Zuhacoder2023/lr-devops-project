@@ -10,3 +10,4 @@ model.fit(X, y)
 prediction = model.predict([[6]])
 
 print("Predicted salary for 6 years experience:", round(prediction[0], 1))
+# testing git workflow
